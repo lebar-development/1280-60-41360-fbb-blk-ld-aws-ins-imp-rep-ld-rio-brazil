@@ -1,0 +1,30 @@
+{
+  "v1-lvl10-010-dir": {
+    "leg-lvl20-010-dir": {
+      "1280-60-11400-hll-leg-ld-aws-lvl30-010-dir": {
+        "ere-lvl40-010-dir": {
+          "1280-60-11405-ccr-dir-ld-aws-lvl50-010-dir": {
+            "cfg-lvl60-010-dir": "1280-60-11405-ccr-dir-ld-aws-dep-cfg-v0-0-01-lvl70-010-fil.json",
+            "env-lvl60-020-dir": "1280-60-11405-ccr-dir-ld-aws-dep-env-v0-0-01-lvl70-010-fil.json",
+            "net-lvl60-030-dir": "1280-60-11405-ccr-dir-ld-aws-dep-net-v0-0-01-lvl70-010-fil.json",
+            "pkg-lvl60-040-dir": "1280-60-11405-ccr-dir-ld-aws-dep-pkg-v0-0-01-lvl70-010-fil.json",
+            "rmt-lvl60-050-dir": "1280-60-11405-ccr-dir-ld-aws-dep-rmt-v0-0-01-lvl70-010-fil.json",
+            "sch-lvl60-060-dir": "1280-60-11405-ccr-dir-ld-aws-dep-sch-v0-0-01-lvl70-010-fil.json",
+            "stk-lvl60-070-dir": "1280-60-11405-ccr-dir-ld-aws-dep-stk-v0-0-01-lvl70-010-fil.py"
+          },
+          "1280-60-11410-fcr-fil-ld-aws-lvl50-020-dir": {
+            "cfg-lvl60-010-dir": "1280-60-11410-fcr-fil-ld-aws-dep-cfg-v0-0-01-lvl70-010-fil.json",
+            "env-lvl60-020-dir": "1280-60-11410-fcr-fil-ld-aws-dep-env-v0-0-01-lvl70-010-fil.json",
+            "net-lvl60-030-dir": "1280-60-11410-fcr-fil-ld-aws-dep-net-v0-0-01-lvl70-010-fil.json",
+            "pkg-lvl60-040-dir": "1280-60-11410-fcr-fil-ld-aws-dep-pkg-v0-0-01-lvl70-010-fil.json",
+            "rmt-lvl60-050-dir": "1280-60-11410-fcr-fil-ld-aws-dep-rmt-v0-0-01-lvl70-010-fil.json",
+            "sch-lvl60-060-dir": "1280-60-11410-fcr-fil-ld-aws-dep-sch-v0-0-01-lvl70-010-fil.json",
+            "stk-lvl60-070-dir": "1280-60-11410-fcr-fil-ld-aws-dep-stk-v0-0-01-lvl70-010-fil.py"
+          }
+        },
+        "stk-lvl40-020-dir": "1280-60-11400-hll-leg-ld-aws-dep-stk-v0-0-01-lvl50-010-fil.py"
+      }
+    },
+    "stk-lvl20-020-dir": "1280-60-41360-fbb-blk-ld-aws-ins-dep-stk-v0-0-01-lvl30-010-fil.py"
+  }
+}

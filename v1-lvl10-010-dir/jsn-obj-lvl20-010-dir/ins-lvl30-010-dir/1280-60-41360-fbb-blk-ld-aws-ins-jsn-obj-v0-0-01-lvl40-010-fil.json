@@ -1,0 +1,36 @@
+[
+  {
+    "aliasNameKEY": "none",
+    "blockNumberKEY": "1280-60",
+    "fqbidKEY": "1280-60-41360-fbb-blk-ld-aws",
+    "blockDescriptionKEY": "strategy board",
+    "stackNameKEY": "1280-60-41360-fbb-blk-ld-aws-ins-dep-stk-v0-0-01-lvl30-010-fil.py",
+    "11400": [
+      {
+        "aliasNameKEY": "none",
+        "fqlidKEY": "1280-60-11400-hll-leg-ld-aws",
+        "stackNameKEY": "1280-60-11400-hll-leg-ld-aws-dep-stk-v0-0-01-lvl50-010-fil.py"
+      },
+      {
+        "dir": {
+          "aliasNameKEY": "LadyGritterSparklesTrollBOT",
+          "resourceNameKEY": ".kube",
+          "fqridKEY": "1280-60-11405-ccr-dir-ld-aws",
+          "accessTypeKEY": "none",
+          "stackNameKEY": "1280-60-11405-ccr-ld-aws-dep-stk-v0-0-01-lvl70-010-fil.py",
+          "deploymentOrderNumber11400KEY": "11405",
+          "deletionProtectionFlag11400KEY": "none",
+          "fil": {
+            "aliasNameKEY": "SatinTrollBOT",
+            "resourceNameKEY": "config",
+            "fqridKEY": "1280-60-11410-fcr-fil-ld-aws",
+            "accessTypeKEY": "none",
+            "stackNameKEY": "1280-60-11410-fcr-fil-ld-aws-dep-stk-v0-0-01-lvl70-010-fil.py",
+            "deploymentOrderNumber11400KEY": "11410",
+            "deletionProtectionFlag11400KEY": "none"
+          }
+        }
+      }
+    ]
+  }
+]

@@ -1,0 +1,18 @@
+{
+  "v1-lvl10-010-dir": {
+    "leg-lvl20-010-dir": {
+      "1280-60-11400-hll-leg-ld-aws-lvl30-010-dir": {
+        "ere-lvl40-010-dir": {
+          "1280-60-11405-ccr-dir-ld-aws-lvl50-010-dir": {
+            "cre-lvl60-010-dir": "1280-60-11405-ccr-dir-ld-aws-dep-cre-v0-0-01-lvl70-010-fil.json",
+            "dat-lvl60-020-dir": "1280-60-11405-ccr-dir-ld-aws-dep-dat-v0-0-01-lvl70-010-fil.json"
+          },
+          "1280-60-11410-fcr-fil-ld-aws-lvl50-020-dir": {
+            "cre-lvl60-010-dir": "1280-60-11410-fcr-fil-ld-aws-dep-cre-v0-0-01-lvl70-010-fil.json",
+            "dat-lvl60-020-dir": "1280-60-11410-fcr-fil-ld-aws-dep-dat-v0-0-01-lvl70-010-fil.json"
+          }
+        }
+      }
+    }
+  }
+}
